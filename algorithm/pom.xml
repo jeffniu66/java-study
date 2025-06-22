@@ -7,10 +7,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>design-patterns</artifactId>
+    <artifactId>algorithm</artifactId>
     <packaging>jar</packaging>
 
-    <name>design-patterns</name>
+    <name>algorithm</name>
     <url>http://maven.apache.org</url>
 
     <properties>
