@@ -12,6 +12,8 @@
     <modules>
         <module>design-patterns</module>
         <module>algorithm</module>
+        <module>jdk-feature</module>
+        <module>game-server</module>
     </modules>
 
     <properties>
